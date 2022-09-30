@@ -64,6 +64,12 @@ header .textos-header{
     text-align: center;
 
 }
+.textos-header .negocio h1{
+    font-size: 60px;
+    color: rgb(5, 255, 59);
+    font-weight: 800;
+    margin-bottom: 30px;
+}
 .textos-header h1{
     font-size: 50px;
     color: #fff;
