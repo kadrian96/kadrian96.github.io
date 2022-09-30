@@ -211,6 +211,7 @@ header .textos-header{
     flex-direction: column;
     text-align: center;
     justify-content: center;
+    
 }
 .imagen-port:hover .over-gal{
     transform: scale(1);
